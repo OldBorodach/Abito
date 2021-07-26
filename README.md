@@ -1,2 +1,7 @@
-# Glo-Academy-Abito
-Интенсив Свой Авито на HTML и CSS
+# Glo-Academy
+Учебный проект
+
+##Технологии в проекте
+-Html
+-Css
+-Normalize
