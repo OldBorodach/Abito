@@ -1,7 +1,7 @@
-#Glo-Academy
+# Glo-Academy
 Учебный проект
 
-##Технологии в проекте
+## Технологии в проекте
 -Html
 -Css
 -Normalize
